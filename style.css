@@ -1,0 +1,13 @@
+table.tabla3{
+    border: black 1px solid;
+    width: 10%;
+    height: 10%;
+}
+td.black {
+    border: black 1px solid;
+    text-align: center;
+}
+th.black {
+    border: black 1px solid;
+    text-align: center;
+}
